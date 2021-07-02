@@ -1,0 +1,9 @@
+div {position:relative; padding:0px;}
+.row {outline:1px solid #ededed; padding:0px;}
+.position {outline:1px solid #a1a1a1;}
+#header,#content,#footer {width:900px; margin:0px auto;}
+.tab-button {float:left;}
+.tab {width:900px; float:left; height:500px;}
+#rating {width:900px; overflow:hidden;}
+.frame {width:1800px;height:500px}
+.position{padding:0px 15px;}
