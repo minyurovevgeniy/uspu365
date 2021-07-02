@@ -1,0 +1,1 @@
+OPTIMIZE TABLE `bachelor_training_courses_description`
